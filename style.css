@@ -8,7 +8,7 @@
 /* Apply the background image to the entire page */
 body {
   font-family: Arial, sans-serif;
-  background: url('back.web') no-repeat center center fixed;
+  background: url('back.webp') no-repeat center center fixed;
   background-size: cover;
   color: #333;
 }
